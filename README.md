@@ -9,3 +9,5 @@ Creating new projects via Cookiecutter won't be possible.  Maybe we have to pre-
 Does VSCode have a paragraph fill command similar to Emacs?  Yes, [vscode-fill](https://github.com/kmixter/vscode-fill), but it requires an extension host.
 
 What happens to this text when the browser closes?  Well, it didn't get deleted when I closed the window.
+
+Here's another line in the file.
